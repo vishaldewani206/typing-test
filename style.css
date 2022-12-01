@@ -19,6 +19,7 @@
   margin-top: 2rem;
   font-size: 1.5rem;
   background: white;
+  padding-left: 3px;
 }
 #text:focus {
   outline: none;
