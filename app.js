@@ -82,3 +82,4 @@ textarea.addEventListener('keydown', (key) => {
     seconds = 0;
   }
 });
+console.log('😎');
